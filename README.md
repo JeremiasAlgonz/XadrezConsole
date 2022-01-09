@@ -4,7 +4,7 @@
 # A Xadrez.program console Application developed in C#
 
 
-# Language Available: PT-BR (in game & in code)
+# Available language: PT-BR (in game & in code)
 # PIECES: corresponding string
 
 # P: Peão = Pawn;
